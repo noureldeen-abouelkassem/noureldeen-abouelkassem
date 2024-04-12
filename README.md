@@ -1,5 +1,6 @@
-![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGhhaHllM2pqNWpmbnBkMjlmNTdyejh5N2o5dnd3OHd0d3V6ODl6cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif)
-
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGhhaHllM2pqNWpmbnBkMjlmNTdyejh5N2o5dnd3OHd0d3V6ODl6cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="MasterHead">
+</p>
 
 
 
