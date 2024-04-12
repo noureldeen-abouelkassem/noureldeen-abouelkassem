@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hi 👋, I'm noureldeen</h1>
-<h3 align="center">Crafting Mobile Experiences: Slowly but Steadily</h3>
+<h3 align="center">Crafting Mobile Experiences</h3>
 
 - 🔭 I’m currently working on [Halan Apps](https://play.google.com/store/apps/details?id=com.halanuser&hl=en&gl=US&pli=1)
 
