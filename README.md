@@ -1,7 +1,4 @@
-[![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTl5YzJyYjluMXdxand3NHNwMmdpZHo1ZnB6eDdwdWpjZXN1eDB4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h408T6Y5GfmXBKW62l/giphy.gif)](https://www.linkedin.com/in/noureldeen-abouelkassem/)
-<img align="right" alt="Crafting Mobile Experiences: Slowly but Steadily" width="500" height="425" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGhhaHllM2pqNWpmbnBkMjlmNTdyejh5N2o5dnd3OHd0d3V6ODl6cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif">
-
-
+![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGhhaHllM2pqNWpmbnBkMjlmNTdyejh5N2o5dnd3OHd0d3V6ODl6cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif)
 
 
 
